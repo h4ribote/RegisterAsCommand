@@ -45,7 +45,3 @@ A tool for Windows 11 to easily register executable files as commands. By select
 - PATH changes require logging out and logging in to take effect.
 - The "Register as Command" option appears in the legacy context menu of Windows 11.
 - Check the console output for any errors.
-
-## License
-
-MIT License
