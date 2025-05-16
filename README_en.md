@@ -19,7 +19,7 @@ A tool for Windows 11 to easily register executable files as commands. By select
 
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/<your-username>/RegisterAsCommand.git
+   git clone https://github.com/h4ribote/RegisterAsCommand.git
    ```
 2. Build the project (using Visual Studio or MSBuild):
    - Target framework: .NET Framework 4.0
