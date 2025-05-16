@@ -19,7 +19,7 @@ Windows 11で実行ファイルをコマンドとして簡単に登録するツ�
 
 1. リポジトリをクローンまたはダウンロードします：
    ```bash
-   git clone https://github.com/<your-username>/RegisterAsCommand.git
+   git clone https://github.com/h4ribote/RegisterAsCommand.git
    ```
 2. プロジェクトをビルドします（Visual Studio または MSBuild を使用）：
    - ターゲットフレームワーク：.NET Framework 4.0
