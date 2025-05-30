@@ -43,7 +43,7 @@ class Program
         string batFilePath = Path.Combine(batDir, fileNameWithoutExtension + ".bat");
 
         // バッチファイルの内容
-        string batContent = string.Format("@echo off\n\"{0}\" \"%1\"", filePath);
+        string batContent = string.Format("@echo off\n\"{0}\" %*", filePath);
 
         // バッチファイルを書き込む
         try
